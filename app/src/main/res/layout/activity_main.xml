@@ -22,10 +22,10 @@
 
     <ImageView
         android:id="@+id/game_image"
-        android:layout_width="150dp"
-        android:layout_height="150dp"
+        android:layout_width="298dp"
+        android:layout_height="401dp"
         android:contentDescription="Imagen del juego Ahorcado"
-        android:src="@drawable/ic_launcher_foreground"
+        android:src="@mipmap/ahorcado_1"
         app:layout_constraintBottom_toTopOf="@+id/tap_message"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
